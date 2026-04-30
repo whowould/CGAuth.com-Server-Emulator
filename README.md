@@ -27,7 +27,7 @@ What Does CGAuth Provide? -> feature list:
 Docs -> https://github.com/cG-Auth/CGAuth-Project
 
 # How To Use?
-Simple as it can be, you must put the secret key and ssl key inside entry.cpp(change the hardcoded ones) -> which is easy to fetch thru process hacker, x64dbg, cheatengine.
+Simple as it can be, you must put the secret key and api key inside entry.cpp(change the hardcoded ones) -> which is easy to fetch thru process hacker, x64dbg, cheatengine.
 Compile it(x64 Release)
 Run it As Admin
 Run the loader with the cgauth
