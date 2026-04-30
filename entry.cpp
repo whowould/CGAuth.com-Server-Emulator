@@ -16,8 +16,8 @@
 #define ZS ::std::string
 #define ZV ::std::vector<u8>
 typedef unsigned char u8;typedef unsigned int u4;typedef int64_t i8;typedef int i4;using J = nlohmann::json;
-static const ZS Z2(I, I) = "e209e7d630a9010cf96a379cc7ada643d5581396ab0d562ed17062cfc77b529c";
-static const ZS Z2(I, II) = "0f61eb66b68de90c86e95f0e938b9fd5a650f6fc07628ed501afa0f9eb82469d";
+static const ZS Z2(I, I) = "e209e7d630a9010cf96a379cc7ada643d5581396ab0d562ed17062cfc77b529c"; // -> api key
+static const ZS Z2(I, II) = "0f61eb66b68de90c86e95f0e938b9fd5a650f6fc07628ed501afa0f9eb82469d"; // -> api secret
 static const ZS Z2(I, III) = "server.crt";
 static const ZS Z2(I, IV) = "server.key";
 static const ZS Z2(I, V) = "0.0.0.0";
